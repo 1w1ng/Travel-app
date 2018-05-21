@@ -85,7 +85,9 @@ export default{
     height: 0;
     padding-bottom: 50%;
   }
-  .icon{
+  .icons{
+    margin-top: .1rem;
+    .icon{
     position: relative;
     overflow: hidden;
     float: left;
@@ -119,5 +121,6 @@ export default{
       white-space: nowrap;
       text-overflow: ellipsis;
     }
+  }
   }
 </style>
