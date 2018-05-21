@@ -29,6 +29,11 @@ export default {
         imgUrl: 'http://img1.qunarzz.com/sight/p0/1508/2e/d9363ce50a88c8c5ff5a138c67687cd4.water.jpg_200x200_1c15c8f5.jpg',
         title: '深圳野生动物园',
         desc: '放养式动物园让你和动物们“零距离”'
+      },{
+        id: '0003',
+        imgUrl: 'http://img1.qunarzz.com/sight/p0/1611/97/97dbde6eccdfef72a3.water.jpg_200x200_e0efe6da.jpg',
+        title: '东部华侨城',
+        desc: '深圳唯美、动感的生态主题乐园'
       }]
     }
   }
