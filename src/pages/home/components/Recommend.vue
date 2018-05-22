@@ -2,7 +2,7 @@
   <div>
     <div class="title">热销推荐</div>
     <ul>
-      <li class="item border-bottom" v-for="item of recommendList" :key="item.id">
+      <li class="item border-bottom" v-for="item of list" :key="item.id">
         <img class="item-img" :src="item.imgUrl" />
         <div class="item-info">
           <p class="item-title">{{item.title}}</p>
@@ -17,25 +17,8 @@
 <script>
 export default {
   name: 'HomeRecommend',
-  data (){
-    return {
-      recommendList:[{
-        id: '0001',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1805/ed/edd6ad7136773cb1a3.water.jpg_200x200_60b49263.jpg',
-        title: '世界之窗',
-        desc: '全球微缩景点，精彩演绎、娱乐项目应有尽有'
-      },{
-        id: '0002',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1508/2e/d9363ce50a88c8c5ff5a138c67687cd4.water.jpg_200x200_1c15c8f5.jpg',
-        title: '深圳野生动物园',
-        desc: '放养式动物园让你和动物们“零距离”'
-      },{
-        id: '0003',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1611/97/97dbde6eccdfef72a3.water.jpg_200x200_e0efe6da.jpg',
-        title: '东部华侨城',
-        desc: '深圳唯美、动感的生态主题乐园'
-      }]
-    }
+  props:{
+    list: Array
   }
 }
 </script>
