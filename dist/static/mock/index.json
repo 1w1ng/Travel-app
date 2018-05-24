@@ -1,0 +1,159 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1805/77/f63bd04dd5319602.jpg_750x200_6ba8e0ca.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1805/e5/59fad13a64807d02.jpg_750x200_713ae984.jpg"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/f2/91b285a08ee21c02.jpg_750x200_8a73fd08.jpg"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1805/a8/c49ed2bbbdbce402.jpg_750x200_818d911d.jpg"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/d3/b7a5b50ae4303802.jpg_750x200_c4f83b96.jpg"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/3e/4d6e12949f74fc02.jpg_750x200_22aba1bb.jpg"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1708/7c/c0b9acba07764302.jpg_750x200_389436b7.jpg"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ff/86d79cd397cbe802.jpg_750x200_41ce1524.jpg"
+      },
+      {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1805/85/ed01cd5307b3f602.jpg_750x200_e54ef754.jpg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+        "desc": "游乐场"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/3e/86314b2af03b7502.png",
+        "desc": "水上公园"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png",
+        "desc": "城市观光"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "desc": "一日游"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "desc": "动植物园"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/27/dac2bcf9added702.png",
+        "desc": "海滨海岛"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png",
+        "desc": "东部华侨城"
+      },
+      {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+        "desc": "海洋馆"
+      },
+      {
+        "id": "0010",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+        "desc": "全部玩乐"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1805/ed/edd6ad7136773cb1a3.water.jpg_200x200_60b49263.jpg",
+        "title": "世界之窗",
+        "desc": "全球微缩景点，精彩演绎、娱乐项目应有尽有"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/2e/d9363ce50a88c8c5ff5a138c67687cd4.water.jpg_200x200_1c15c8f5.jpg",
+        "title": "深圳野生动物园",
+        "desc": "放养式动物园让你和动物们“零距离”"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1611/97/97dbde6eccdfef72a3.water.jpg_200x200_e0efe6da.jpg",
+        "title": "东部华侨城",
+        "desc": "深圳唯美、动感的生态主题乐园"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1412/4b/632fe62f622b9b112cdf9f3b80ce8f78.water.jpg_200x200_ebe5defc.jpg",
+        "title": "深圳欢乐谷",
+        "desc": "狂欢无罪，够胆你就来"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1701/e3/e37e31bd3ca85837a3.water.jpg_200x200_1246dad3.jpg",
+        "title": "锦绣中华民俗村",
+        "desc": "深圳小人国——实景微缩景区候选世界纪录"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/fa/ca65fde9677de2.jpg_r_640x214_4500e3ff.jpg",
+        "title": "深圳必游TOP10",
+        "desc": "来到深圳，你需要来这里签到"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1602/88/bf120edeaea383.jpg_r_640x214_f8591f7b.jpg",
+        "title": "欢乐长隆",
+        "desc": "世界欢乐汇聚长隆"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1507/d9/2ddc7652fdba16.jpg_r_640x214_5e62f1a3.jpg",
+        "title": "当地人游深圳",
+        "desc": "当地人带你发现不一样的深圳"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/eb/e4b181a6957c36.jpg_r_640x214_4abbdbc0.jpg",
+        "title": "情侣好去处",
+        "desc": "手牵手，一起走到老"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1603/df/e0ab9dfce8786e.jpg_r_640x214_5e49a793.jpg",
+        "title": "周末去赏花",
+        "desc": "短暂美丽的花季，千万别错过"
+      }
+    ]
+  }
+}

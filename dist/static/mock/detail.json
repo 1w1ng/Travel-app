@@ -1,0 +1,33 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "世界之窗(AAAAA景区)",
+    "bannerImg": "//img1.qunarzz.com/sight/p0/1805/ed/edd6ad7136773cb1a3.water.jpg_600x330_9a2e6abc.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1805/ed/edd6ad7136773cb1a3.water.jpg_r_800x800_e6277c27.jpg", "http://img1.qunarzz.com/sight/p0/1608/32/32e98cce21e457dfa3.water.jpg_r_800x800_ce2c38c1.jpg","http://img1.qunarzz.com/sight/p0/1608/40/401f995038ca4d91a3.water.jpg_r_800x800_61120df4.jpg"],
+    "categoryList": [{
+      "title": "促销票",
+      "children": [{
+        "title": "（促销）成人票（日夜场通玩）",
+        "children": [{
+          "title": "成人票(选定日期出游)"
+        },{
+          "title": "（特惠）门票（日夜通用）"
+        }]
+      }]
+    }, {
+      "title": "成人票",
+      "children": [{
+        "title": "成人票（日场夜场通玩）",
+        "children": [{
+          "title": "成人门票（日场夜场通用 ）"
+        }]
+      },{
+        "title": "成人票（夜场）",
+        "children": [{
+          "title": "成人门票（日场夜场通用 ）"
+        }]
+      }]
+    }]
+  }
+}
+
